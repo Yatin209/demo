@@ -1,0 +1,16 @@
+types of model
+waterfall
+iterative
+incremental
+evolutionary
+agile
+v model
+spiral
+RAD
+big bang
+prototype
+
+create a doc 
+why you choose specific model
+advantages and disadvantages
+why you choose and why not?
