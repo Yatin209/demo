@@ -11,11 +11,6 @@ public class one {
         for (int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
         }
-
-        for (int i = 0; i < n; i++) {
-            System.out.print(a[i] + " ");
-        }
-
         System.out.println();
         System.out.println("enter number of elements to be sifted:");
         int s = sc.nextInt();
@@ -30,4 +25,5 @@ public class one {
             System.out.print(sorted[i] + " ");
         }
     }
+
 }
